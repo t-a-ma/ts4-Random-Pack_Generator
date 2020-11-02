@@ -1,0 +1,3 @@
+Version 1: 11/2/20
+- Snowy Escape is included despite it not being out yet
+- Users cannot choose what packs they want in the selection pool
