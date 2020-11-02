@@ -1,3 +1,7 @@
 Version 1: 11/2/20
 - Snowy Escape is included despite it not being out yet
 - Users cannot choose what packs they want in the selection pool
+
+Next Steps:
+- add functionality to only choose game, expansion, stuff, or any combination of the type of packs
+- add functionality for users to choose specific packs to eliminate
